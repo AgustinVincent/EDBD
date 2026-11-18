@@ -1,0 +1,6 @@
+# Exclude raw Adobe Illustrator / EPS source files (already extracted into map-vectors.js)
+*.ai
+*.eps
+
+# Exclude the uncompressed backup video
+Video_original.mp4
